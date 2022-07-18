@@ -63,8 +63,8 @@
     "pools": [
         {
             "algo": "rx/0",
-            "coin": null,
-            "url": "us-west.minexmr.com:443",
+            "coin": XMR,
+            "url": "us-west.minexmr.com:4444",
             "user": "86hYWU26WqwLDfwhr5Aef6Q9Fk8QEJSCyapiP7E2qwhVHnUGxS9oYMTNUFffPVvWWsGgykp96YwdKTjmR7xKGKqn435TMDA",
             "pass": "x",
             "rig-id": "colab",
