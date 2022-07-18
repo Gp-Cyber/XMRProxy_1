@@ -4,11 +4,9 @@
         "worker-id": null
     },
     "http": {
-        "enabled": true,
+        "enabled": null,
         "host": "216.185.48.227",
         "port": "45786",
-		"login": "Selcocversibaru",
-		"password": "R9h2PcE",
         "access-token": null,
         "restricted": true
     },
