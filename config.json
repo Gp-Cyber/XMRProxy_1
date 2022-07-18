@@ -3,7 +3,7 @@
         "id": null,
         "worker-id": null
     },
-    "https": {
+    "http": {
         "enabled": true,
         "host": "216.185.48.227",
         "port": "45786",
